@@ -12,74 +12,74 @@ This attached script, `ScheduledEmails.js`, does the following steps _daily_:
 #### Volunteer Email Example
 Subject: [Action Required] Contact Jimmy for OFTW Pledge
 
-Hey John Doe,
-
-This is an automated email from One for the World letting you know
+> Hey John Doe,
+>
+> This is an automated email from One for the World letting you know
 that Jimmy Day, who pledged on 2/18/2021, may now have a credit
 card and be able to take the pledge on Donational.
-
-We recommend that you draft an email to him at undefined, or reach out
+>
+> We recommend that you draft an email to him at undefined, or reach out
 to him on some social media platform. Please note they have also
 received an automated reminder email which you were cc'd on, but we
 still strongly recommend you contact them.
-
-If you have signed the One for the World NDA, you can view the details
+>
+> If you have signed the One for the World NDA, you can view the details
 they've signed up for at
 https://docs.google.com/spreadsheets/d/1DPAydZ1urJdDLhsxxD_t1hVcNXsBc1fEghFRMDmtSEc/edit#gid=1389706953;
 if not, you can sign that at [One for the World NDA Link Here], and
 contact chriselliott@1fortheworld.org to gain access.
-
-If you cannot view the sheet, some relevant information is here:
-- Selected Donation Portfolio: OFTW Top Picks
-- Selected Donation Level: Standard Pledge: 3%
-- Expected Post-Graduation Salary: $100000
-- Donational Monthly Donation (Calculated): $250
-- Associated Chapter: University of Pennsylvania (UG)
-- Predicted Graduation Year: 2023
-
-If you are no longer part of One for the World, please forward this
+>
+> If you cannot view the sheet, some relevant information is here:
+> - Selected Donation Portfolio: OFTW Top Picks
+> - Selected Donation Level: Standard Pledge: 3%
+> - Expected Post-Graduation Salary: $100000
+> - Donational Monthly Donation (Calculated): $250
+> - Associated Chapter: University of Pennsylvania (UG)
+> - Predicted Graduation Year: 2023
+>
+> If you are no longer part of One for the World, please forward this
 email to somebody at the relevant chapter (University of Pennsylvania
 (UG)), by looking at the chapter search:
 https://www.1fortheworld.org/chapter-search.
-
-Thank you!
-
-One for the World Team
+>
+> Thank you!
+>
+> One for the World Team
 
 #### Pledge Email Example
 Subject: [Action Requested] Take the OFTW Pledge on Donational
 
-Hey Jimmy,
-
-This is an automated email from One for the World letting you know
+> Hey Jimmy,
+>
+>This is an automated email from One for the World letting you know
 that since you took the Standard Pledge: 3% pledge on 2/18/2021, you
 indicated that you may have a credit card available to take the
 official One for the World pledge at donational.org.
-
-Do you now have a valid credit card, or a manner to take the One for
+>
+> Do you now have a valid credit card, or a manner to take the One for
 the World pledge? If so, please sign up at donational.org!
-
-If you do not have this information ready, please update the expected
+>
+> If you do not have this information ready, please update the expected
 date that you will be ready for your non-credit card pledge at
 https://forms.gle/U8emKCG2Coq8tmvw8.
-
-As a reminder, here are the pledge preferences you have added:
-- Selected Donation Portfolio: OFTW Top Picks
-- Selected Donation Level: Standard Pledge: 3%
-- Expected Post-Graduation Salary: $100000
-- Donational Monthly Donation (Calculated): $250
-- Associated Chapter: University of Pennsylvania (UG)
-
-We have cc'd the volunteer attached to your non-credit card pledge -
+>
+> As a reminder, here are the pledge preferences you have added:
+> - Selected Donation Portfolio: OFTW Top Picks
+> - Selected Donation Level: Standard Pledge: 3%
+> - Expected Post-Graduation Salary: $100000
+> - Donational Monthly Donation (Calculated): $250
+> - Associated Chapter: University of Pennsylvania (UG)
+>
+> We have cc'd the volunteer attached to your non-credit card pledge -
 John Doe - please contact him with any questions you have about
 the pledge. They have also received an automated email alerting them
 that you may now be able to take the pledge.
-
-Thank you! We can't wait for you to the pledge, and have an amazing
+>
+> Thank you! We can't wait for you to the pledge, and have an amazing
 impact on helping combat extreme poverty - every dollar goes a very
 long way. We are sincerely grateful.
-
-One for the World Team
+>
+> One for the World Team
 
 ## Related Documents
 - **[Non-Credit Card Pledge Form](https://docs.google.com/forms/d/1yXWzXhnWqiGOtQBddDzer7QAsvU5QZpFdoLR5frcxq4/viewform?edit_requested=true)**: Pledges without credit card information can fill out this form as an alternative pledging system.
